@@ -1,38 +1,53 @@
-=== kingma ===
+Theme Name: _tk
+Theme URI: http://themekraft.com/store/_tk-free-wordpress-starter-theme-based-on-twitter-bootstrap/
+Author: ThemeKraft
+Author URI: http://themekraft.com/
+Description: Hi, I am the ultra minimal starter theme _tk, ready for your next awesome WordPress project! I am the most seamless and minimalistic integration of Twitter Bootstrap Framework into the _s starter theme from Automattic, the guys behind WordPress. You can find me on GitHub. Fork me! I'm waiting for you ;)
+Version: 1.1.9
+License: GNU General Public License v3.0 /
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: gray, light, two-columns, right-sidebar, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-images, flexible-header, sticky-post,  theme-options, threaded-comments, translation-ready
 
-Contributors: automattic
-Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
+*************************************************************
 
-Requires at least: 4.0
-Tested up to: 4.3.1
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
 
-A starter theme called kingma, or underscores.
+This theme is the most seamless and minimalistic integration of Twitter Bootstrap Framework into
+the _s starter theme from Automattic, the guys behind WordPress.
 
-== Description ==
+_s (or Underscores) http://underscores.me/, (C) 2012-2013 Automattic, Inc. Twitter Bootstrap
 
-Hi. I'm a starter theme called kingma, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+*************************************************************
 
-== Installation ==
-	
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
+Credits:
 
-== Frequently Asked Questions ==
+1. Bootstrap
 
-= Does this theme support any plugins? =
+ * Bootstrap v3.3.1 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
-kingma includes support for Infinite Scroll in Jetpack.
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=f58353a31151a8c05d7c)
+ * Config saved to config.json and https://gist.github.com/f58353a31151a8c05d7c
 
-== Changelog ==
+2. wp_bootstrap_navwalker
 
-= 1.0 - May 12 2015 =
-* Initial release
+* Class Name: wp_bootstrap_navwalker
+* GitHub URI: https://github.com/twittem/wp-bootstrap-navwalker
 
-== Credits ==
+3. Glyphicons
 
-* Based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
+ * http://getbootstrap.com/components/
+
+*************************************************************
+
+The _tk Project on Github - https://github.com/Themekraft/_tk/
+
+*************************************************************
+
+
+Thanks for using _tk Theme.
+We hope you enjoy it!
+
+*************************************************************
